@@ -1,1 +1,1 @@
-check
+<img src="./cover.jpg"/>
